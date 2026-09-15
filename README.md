@@ -1,4 +1,4 @@
-my-first-respiratory
+my-first-repository
 
 Full Name: Clyde F. Bastasa
 
