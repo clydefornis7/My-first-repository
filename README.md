@@ -1,6 +1,7 @@
 # my-first-repository
 
-# Full Name: Clyde F. Bastasa
+# Full Name: 
+Clyde F. Bastasa
 
 # Course:
 BSIT 2A
